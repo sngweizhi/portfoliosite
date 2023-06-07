@@ -1477,7 +1477,8 @@ pre code .token {
     top: 0px !important;
     position: -webkit-sticky !important;
     display: flex;
-    align-items: center !important;
+    display: block !important;
+    align-items: center;
   }
 }
 .mobile-nav .left {
