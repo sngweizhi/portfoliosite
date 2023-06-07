@@ -1423,7 +1423,7 @@ pre code .token {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
   backdrop-filter: blur(8px);
-  background: rgba(14, 15, 19, 0.95) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: #f7f6fb none repeat scroll 0% 0% / auto padding-box border-box !important;
   border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
   border-color: rgba(15, 23, 42, 0.05);
   border-style: solid;
