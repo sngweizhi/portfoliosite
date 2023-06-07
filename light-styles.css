@@ -1476,10 +1476,8 @@ pre code .token {
     border-style: solid;
     top: 0px !important;
     position: -webkit-sticky !important;
-    display: block !important;
     display: flex;
-    align-items: center;
-/*     margin-bottom: 2.5rem !important; */
+    align-items: center !important;
   }
 }
 .mobile-nav .left {
