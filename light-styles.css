@@ -1422,6 +1422,10 @@ pre code .token {
   align-items: center;
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
+  
+}
+.nav-content {
+  width: 100%;
   backdrop-filter: blur(8px);
   background: #f7f6fb95 none repeat scroll 0% 0% / auto padding-box border-box !important;
   border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
