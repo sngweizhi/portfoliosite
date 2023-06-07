@@ -1469,6 +1469,11 @@ pre code .token {
   .mobile-nav {
     z-index: 1000 !important;
     position: sticky !important;
+    backdrop-filter: blur(8px);
+    background: #f7f6fb95 none repeat scroll 0% 0% / auto padding-box border-box !important;
+    border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
+    border-color: rgba(15, 23, 42, 0.05);
+    border-style: solid;
     top: 0px !important;
     position: -webkit-sticky !important;
     display: block !important;
