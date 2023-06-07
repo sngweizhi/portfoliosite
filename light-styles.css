@@ -1856,6 +1856,7 @@ pre code .token {
   .notion-pill {
   background: none !important;
   font-size: 1.0625rem !important;
+  color: rgba(14, 15, 19, 0.25) !important;
   padding: 0 0 0.25rem 0 !important;
   margin: 0 !important;
 }
@@ -1867,7 +1868,7 @@ pre code .token {
   .notion-property__select
   .notion-pill:after {
   content: "‎‎\00a0 \00a0 / \00a0 \00a0‎‎" !important;
-  color: rgba(14, 15, 19, 0.5) !important;
+  color: rgba(14, 15, 19, 0.25) !important;
 }
 .super-content
   .notion-collection-gallery.large
