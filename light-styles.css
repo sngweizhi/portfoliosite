@@ -1417,7 +1417,6 @@ pre code .token {
   padding-right: calc(env(safe-area-inset-right) + 96px) !important; */
   top: 0rem !important;
   display: flex;
-  position: sticky !important;
   z-index: 1000 !important;
   align-items: center;
   padding-top: 1.25rem;
@@ -1426,6 +1425,10 @@ pre code .token {
 }
 .nav-content {
   width: 100%;
+  top: 0px ;
+  position: sticky !important;
+  display: flex;
+  align-items: center;
   backdrop-filter: blur(8px);
   background: #f7f6fb95 none repeat scroll 0% 0% / auto padding-box border-box !important;
   border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
