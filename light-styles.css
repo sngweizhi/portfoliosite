@@ -1418,7 +1418,8 @@ pre code .token {
   top: 2.45rem !important;
   display: flex;
   align-items: center;
-  padding-top: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 @media (max-width: 1199.98px) {
   .desktop-nav {
@@ -1986,7 +1987,7 @@ pre code .token {
   color: rgba(14, 15, 19, 0.25) !important;
   font-size: 0.925rem !important;
   text-transform: uppercase !important;
-  font-weight: 600 !important;
+  font-weight: 500 !important;
 }
 .super-content .notion-quote {
   -webkit-border-start: 3px solid rgba(14, 15, 19, 0.1) !important;
