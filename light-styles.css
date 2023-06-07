@@ -1467,7 +1467,9 @@ pre code .token {
 }
 @media (max-width: 1199.98px) {
   .mobile-nav {
+    z-index: 1000 !important;
     position: sticky !important;
+    top: 0px !important;
     position: -webkit-sticky !important;
     display: block !important;
     display: flex;
