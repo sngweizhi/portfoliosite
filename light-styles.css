@@ -1417,9 +1417,10 @@ pre code .token {
   padding-right: calc(env(safe-area-inset-right) + 96px) !important;
   top: 2.45rem !important;
   display: flex;
+  position: sticky !important;
   align-items: center;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
 }
 @media (max-width: 1199.98px) {
   .desktop-nav {
