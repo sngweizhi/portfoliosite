@@ -2124,5 +2124,5 @@ pre code .token {
 
 /* Additions */
 .notion-collection-card__property-list {
-    margin-top: 0px;
+    margin-top: 0px !important;
 }
