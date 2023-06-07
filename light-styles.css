@@ -1415,7 +1415,7 @@ pre code .token {
   text-align: right !important;
 /*   padding-left: calc(env(safe-area-inset-left) + 96px) !important;
   padding-right: calc(env(safe-area-inset-right) + 96px) !important; */
-/*   top: 2.45rem !important; */
+  top: 0rem !important;
   display: flex;
   position: sticky !important;
   z-index: 1000 !important;
