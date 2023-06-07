@@ -1479,7 +1479,7 @@ pre code .token {
     display: block !important;
     display: flex;
     align-items: center;
-    margin-bottom: 2.5rem !important;
+/*     margin-bottom: 2.5rem !important; */
   }
 }
 .mobile-nav .left {
