@@ -1412,6 +1412,7 @@ pre code .token {
 .desktop-nav {
   max-width: 1440px !important;
   margin: 0 auto !important;
+  height: 60px;
   text-align: right !important;
 /*   padding-left: calc(env(safe-area-inset-left) + 96px) !important;
   padding-right: calc(env(safe-area-inset-right) + 96px) !important; */
@@ -1484,6 +1485,8 @@ pre code .token {
     display: flex;
     display: block !important;
     align-items: center;
+    height: 60px;
+
   }
 }
 .mobile-nav .left {
