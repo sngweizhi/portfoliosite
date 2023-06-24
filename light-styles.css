@@ -1157,7 +1157,7 @@ img {
 }
 
 html {
-  background-color: #f7f6fb !important;
+  background-color: #f8f8f8 !important;
   background-image: url("https://mattdowney.github.io/folio/img/loader-light.svg");
   background-repeat: no-repeat;
   background-size: 3rem 3rem;
@@ -1429,8 +1429,8 @@ pre code .token {
   z-index: 100 !important;
   position: sticky !important;
   backdrop-filter: blur(8px);
-  background: rgba(247, 246, 251, 0.94) !important;
-  border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
+/*   background: rgba(247, 246, 251, 0.94) !important;
+  border-bottom: 0.8px solid rgba(15, 23, 42, 0.05); */
   border-color: rgba(15, 23, 42, 0.05);
   border-style: solid;
 }
