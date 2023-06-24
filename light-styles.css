@@ -1157,7 +1157,7 @@ img {
 }
 
 html {
-  background-color: #fffbf5 !important;
+  background-color: #f7f6fb !important;
   background-image: url("https://mattdowney.github.io/folio/img/loader-light.svg");
   background-repeat: no-repeat;
   background-size: 3rem 3rem;
@@ -1248,7 +1248,7 @@ a,
 p a,
 ul,
 ul li {
-  color: rgb(30,20,0) !important;
+  color: rgb(55,53,47) !important;
   margin-bottom: 1.5rem !important;
   font-size: 1.0875rem !important;
   line-height: 1.675 !important;
