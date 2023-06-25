@@ -1157,7 +1157,7 @@ img {
 }
 
 html {
-  background-color: #f8f8f8 !important;
+  background-color: var(--color-bg-default);
   background-image: url("https://mattdowney.github.io/folio/img/loader-light.svg");
   background-repeat: no-repeat;
   background-size: 3rem 3rem;
