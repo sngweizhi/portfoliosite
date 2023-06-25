@@ -1202,7 +1202,7 @@ p,
 ul,
 ol,
 li {
-  color: #0e0f13 !important;
+  color: var(--color-text-default)!important;
 }
 
 h1,
