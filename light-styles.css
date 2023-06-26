@@ -1365,8 +1365,7 @@ pre code .token {
   span
   em
   a.notion-link:hover {
-  color: #f36163 !important;
-  border-bottom: 2px solid #f7f6fb !important;
+  color: #f18f26 !important;
 }
 
 @media (max-width: 767.98px) {
@@ -1462,7 +1461,7 @@ pre code .token {
   transition: all 0.2s ease-in-out !important;
 }
 .desktop-nav .right a:hover {
-  color: #f36163 !important;
+  color: #f18f26 !important;
   opacity: 1 !important;
 }
 
