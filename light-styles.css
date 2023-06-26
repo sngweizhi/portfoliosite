@@ -1293,9 +1293,6 @@ pre code .token {
   border-bottom: 2px solid rgba(14, 15, 19, 0.125) !important;
   transition: all 0.2s ease-in-out !important;
 }
-.notion-link:hover {
-  border-bottom: 2px solid #f7f6fb !important;
-}
 
 .notion-text p.notion-text__content:empty {
   margin-bottom: 0.5rem !important;
@@ -1320,8 +1317,7 @@ pre code .token {
   p.notion-text__content
   span.notion-semantic-string
   span.link:hover {
-  color: #f36163 !important;
-  border-bottom: 2px solid #f7f6fb !important;
+  color: #f18f26 !important;
 }
 
 .notion-text
@@ -1346,7 +1342,7 @@ pre code .token {
   strong
   a.notion-link:hover {
   background: #0e0f13 !important;
-  color: #f7f6fb !important;
+  color: #f18f26 !important;
   border-bottom: none !important;
 }
 
