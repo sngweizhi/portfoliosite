@@ -1677,7 +1677,6 @@ pre code .token {
   -webkit-transform: translateY(0rem) !important;
   transform: translateY(0rem) !important;
   will-change: transform !important;
-  background: rgba(165, 165, 165, 0.1) !important;
   margin-top: 1rem !important;
   padding-bottom: 0rem !important;
 }
