@@ -1138,12 +1138,6 @@ html {
   height: 100% !important;
 }
 
-body {
-  -webkit-animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
-  animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
-  height: 100% !important;
-}
-
 @-webkit-keyframes fadeIn {
   0% {
     opacity: 0;
