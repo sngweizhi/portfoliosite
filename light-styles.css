@@ -1141,9 +1141,8 @@ html {
 }
 
 body {
-  background: #f7f6fb !important;
-/*   -webkit-animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
-  animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both; */
+  -webkit-animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
+  animation: fadeIn 0.35s cubic-bezier(0.39, 0.575, 0.565, 1) 1.1s both;
   height: 100% !important;
 }
 
@@ -1304,7 +1303,7 @@ pre code .token {
   background: #D7730F !important;
   padding: 0.6875rem 1.75rem 0.725rem 1.75rem !important;
   border-bottom: none !important;
-  color: #f7f6fb !important;
+  color: #f8f8f8 !important;
   border-radius: 500rem !important;
   font-weight: 500 !important;
   transition: 0.2s all ease-in-out;
