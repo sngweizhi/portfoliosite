@@ -1677,7 +1677,7 @@ pre code .token {
   will-change: transform !important;
   margin-top: 1rem !important;
   padding-bottom: 0rem !important;
-  border: 2px solid gray;
+  border: 2px solid var(--color-text-default);
 }
 .super-content .notion-collection-gallery.large .notion-collection-card:hover {
   transition: -webkit-transform 180ms !important;
