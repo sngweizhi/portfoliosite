@@ -1709,7 +1709,7 @@ pre code .token {
   will-change: transform !important;
   background: rgba(165, 165, 165, 0.1) !important;
   margin-top: 1rem !important;
-  padding-bottom: 1rem !important;
+  padding-bottom: 0rem !important;
 }
 .super-content .notion-collection-gallery.large .notion-collection-card:hover {
   transition: -webkit-transform 180ms !important;
@@ -1824,7 +1824,7 @@ pre code .token {
   .notion-collection-gallery.large
   .notion-collection-card
   .notion-collection-card__cover.large {
-  margin-bottom: 1.75rem !important;
+  margin-bottom: 0.25rem !important;
 }
 .super-content
   .notion-collection-gallery.large
