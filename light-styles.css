@@ -1326,7 +1326,7 @@ pre code .token {
   span
   strong
   a.notion-link {
-  background: #f36163 !important;
+  background: #f18f26 !important;
   padding: 0.6875rem 1.75rem 0.725rem 1.75rem !important;
   border-bottom: none !important;
   color: #f7f6fb !important;
@@ -1403,7 +1403,7 @@ pre code .token {
 }
 
 .super-navbar__item-list .super-navbar__item.active {
-  color: #f36163 !important;
+  color: #f18f26 !important;
 }
 
 .desktop-nav {
