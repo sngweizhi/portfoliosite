@@ -1130,31 +1130,6 @@ img {
   margin: 0 !important;
 }
 
-.notion-callout .notion-callout__icon .notion-icon {
-  display: none !important;
-}
-
-.notion-callout {
-  display: block !important;
-  border-radius: 0 !important;
-  padding: 0 !important;
-  border: none !important;
-}
-@media (max-width: 1199.98px) {
-  .notion-callout {
-    margin-bottom: 0 !important;
-  }
-}
-.notion-callout .notion-callout__content {
-  -webkit-margin-start: 0px !important;
-  margin-inline-start: 0px !important;
-}
-.notion-callout .notion-callout__content .notion-semantic-string .link {
-  opacity: 1 !important;
-}
-.notion-callout.border {
-  border: none !important;
-}
 
 html {
   background-color: var(--color-bg-default) !important;
