@@ -1133,7 +1133,6 @@ img {
 
 html {
   background-color: var(--color-bg-default) !important;
-  background-image: url("https://mattdowney.github.io/folio/img/loader-light.svg");
   background-repeat: no-repeat;
   background-size: 3rem 3rem;
   background-position: center center;
