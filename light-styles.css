@@ -1430,11 +1430,11 @@ pre code .token {
   top: 0px ;
   z-index: 100 !important;
   position: sticky !important;
- /* backdrop-filter: blur(8px); */
-/*   background: rgba(247, 246, 251, 0.94) !important;
-  border-bottom: 0.8px solid rgba(15, 23, 42, 0.05); */
+/*   backdrop-filter: blur(8px); 
+  background: rgba(247, 246, 251, 0.94) !important;
+  border-bottom: 0.8px solid rgba(15, 23, 42, 0.05); 
   border-color: rgba(15, 23, 42, 0.05);
-  border-style: solid;
+  border-style: solid; */
 }
 @media (max-width: 1199.98px) {
   .desktop-nav {
@@ -1477,11 +1477,11 @@ pre code .token {
   .mobile-nav {
     z-index: 1000 !important;
     position: sticky !important;
-    backdrop-filter: blur(8px);
+/*     backdrop-filter: blur(8px);
     background: #f7f6fb95 none repeat scroll 0% 0% / auto padding-box border-box !important;
     border-bottom: 0.8px solid rgba(15, 23, 42, 0.05);
     border-color: rgba(15, 23, 42, 0.05);
-    border-style: solid;
+    border-style: solid; */
     top: 0px !important;
     position: -webkit-sticky !important;
     display: flex;
