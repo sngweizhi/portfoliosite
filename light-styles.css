@@ -1442,6 +1442,7 @@ pre code .token {
 
 .mobile-nav {
   display: none !important;
+  z-index: 1000 !important;
 }
 @media (max-width: 1199.98px) {
   .mobile-nav {
