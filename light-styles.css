@@ -1584,10 +1584,11 @@ pre code .token {
 }
 .mobile-nav .right input:checked ~ nav {
   height: 100% !important;
+  background: rgba(248,248,248,0.94) !important;
   transition-delay: 0s !important;
 }
 .mobile-nav .right input:checked ~ nav > ul {
-  background: rgba(247, 246, 251, 0.94) !important;
+  background: rgba(248, 248, 248, 0.94) !important;
   z-index: 3 !important;
   text-align: center !important;
   display: block !important;
