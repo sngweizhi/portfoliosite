@@ -1533,9 +1533,6 @@ pre code .token {
   font-weight: 500 !important;
   background: none !important;
   border: none !important;
-  font-family: "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol" !important;
   margin-bottom: 1.5rem;
 }
 .mobile-nav .right input ~ nav {
