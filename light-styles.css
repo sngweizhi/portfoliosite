@@ -1965,15 +1965,6 @@ pre code .token {
   text-transform: uppercase !important;
   font-weight: 500 !important;
 }
-.super-content .notion-quote {
-  -webkit-border-start: 3px solid rgba(14, 15, 19, 0.1) !important;
-  border-inline-start: 3px solid rgba(14, 15, 19, 0.1) !important;
-  margin: 1rem 0 3rem 0 !important;
-  padding: 1rem 1rem 1rem 2rem !important;
-  font-size: 1.5rem !important;
-  font-weight: 500 !important;
-  color: #0e0f13 !important;
-}
 
 .super-content .notion-collection-gallery.medium .notion-collection-card a {
   text-indent: -9999px !important;
