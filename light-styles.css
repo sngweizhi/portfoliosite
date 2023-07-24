@@ -5,8 +5,6 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&family=Space+Mono:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
 .container,
 .container-fluid,
 .container-xl,
@@ -1217,9 +1215,9 @@ ul li {
   margin-bottom: 1.5rem !important;
   font-size: 1.0875rem !important;
   line-height: 1.675 !important;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+/*   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol" !important;
+    "Segoe UI Symbol" !important; */
 }
 @media (max-width: 1199.98px) {
   p,
