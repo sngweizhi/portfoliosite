@@ -1104,9 +1104,6 @@ img {
   user-select: none;
 }
 
-.notion-toggle {
-  display: none !important;
-}
 
 .notion-heading {
   padding: 0 !important;
