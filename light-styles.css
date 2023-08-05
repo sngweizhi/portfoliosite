@@ -1702,8 +1702,8 @@ pre code .token {
   .notion-collection-card
   .notion-collection-card__cover.large
   > span {
-  height: 21.25rem !important;
   max-height: 21.25rem !important;
+  padding-bottom: 56.25% !important;
   border-bottom: none !important;
 }
 .super-content
