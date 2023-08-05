@@ -1703,7 +1703,6 @@ pre code .token {
   .notion-collection-card__cover.large
   > span {
   max-height: 21.25rem !important;
-  padding-bottom: 56.25% !important;
   border-bottom: none !important;
 }
 .super-content
