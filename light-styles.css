@@ -1330,11 +1330,11 @@ pre code .token {
   color: #f18f26 !important;
 }
 
-@media (max-width: 767.98px) {
+/* @media (max-width: 767.98px) {
   .notion-text p.notion-text__content span.notion-semantic-string span em {
     display: block !important;
     margin-top: 2rem !important;
-  }
+  } */
 }
 
 .super-navbar {
