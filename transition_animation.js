@@ -25,7 +25,10 @@ function animateOnScroll() {
     { id: "block-160e419fb1e6438f9a4ed9033e4e92b6", class: "reveal-1" },
     { id: "block-6045708d56d7467a888de67ac78a2315", class: "reveal-2" },
     { id: "block-eb41dcba0a784bb9ba8ff77f1451bd20", class: "reveal-3" },
-    
+    { id: "block-f667b297baec4a138de37dcc008fd046", class: "reveal-1" },
+    { id: "block-c36e69ea2e1e406393db07719790f5d6", class: "reveal-2" },
+    { id: "block-3360bfc3d1d841239559c52e570998c2", class: "reveal-3" },
+  
     
     //Projects
     { id: "block-b152895395ff4dde8b536916aa4f1374", class: "reveal-4" },
