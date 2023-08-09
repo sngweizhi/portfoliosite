@@ -1,8 +1,8 @@
-
+const threshold = 0.2;
 const options = {
   root: null,
-  rootMargin: "0px";
-  threshold: 0.2
+  rootMargin: "0px",
+  threshold,
 };
 
 function handleIntersect(entries, observer) {
