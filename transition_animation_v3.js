@@ -1,6 +1,7 @@
+
 const options = {
   root: null,
-  rootMargin: '0px 0px -200px 0px', // Top, Right, Bottom, Left
+  rootMargin: "0px";
   threshold: 0.2
 };
 
