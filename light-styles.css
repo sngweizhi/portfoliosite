@@ -1248,7 +1248,6 @@ pre code .token {
 }
 
 .notion-image.page-width img {
-  border: solid 2px black !important;
   border-radius: 0.25rem !important;
 }
 
