@@ -1,0 +1,126 @@
+/* Regular */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Rg-Trial.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-It-Trial.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Bd-Trial.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-BdIt-Trial.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Book */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Bk-Trial.otf') format('opentype');
+    font-weight: 500; /* Typically 'Book' is slightly heavier than regular but lighter than medium */
+    font-style: normal;
+}
+
+/* Book Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-BkIt-Trial.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}/* Light */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Lt-Trial.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Light Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-LtIt-Trial.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Md-Trial.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-MdIt-Trial.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Semi-bold */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Smbd-Trial.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Semi-bold Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-SmbdIt-Trial.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Extra Bold */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Xbd-Trial.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Extra Bold Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-XbdIt-Trial.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Extra Light */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-Xlt-Trial.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* Extra Light Italic */
+@font-face {
+    font-family: 'ESKlarheitGroteskMono';
+    src: url('./ESKlarheitGroteskMono-XltIt-Trial.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+  
